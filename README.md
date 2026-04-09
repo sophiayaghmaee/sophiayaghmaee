@@ -13,7 +13,7 @@ Transitioning into Solutions Engineering — combining hands-on data engineering
 - Ingests account, client, and daily market price data via REST API and CSV sources
 - Bronze → silver → gold medallion architecture with star schema and reporting views
 
-**Stack:** Apache Airflow · PostgreSQL · Docker · Python · SQL
+**Stack:** Apache Airflow · PostgreSQL · Docker · Python
 
 <br>
 
