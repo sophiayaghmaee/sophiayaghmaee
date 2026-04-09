@@ -23,7 +23,7 @@ Transitioning into Solutions Engineering — combining hands-on data engineering
 - Monitors public company financials using SEC EDGAR public data
 - dbt transformations on Snowflake following medallion architecture principles
 
-**Stack:** dbt · Snowflake · Python · SQL
+**Stack:** dbt · Snowflake · Python
 
 ## Skills
 
