@@ -25,6 +25,17 @@ Transitioning into Solutions Engineering — combining hands-on data engineering
 
 **Stack:** dbt · Snowflake · Python
 
+<br>
+
+### Dynamic Programming Performance Analysis
+[GitHub](https://github.com/sophiayaghmaee/dynamic-programming) &nbsp;|&nbsp; [Fibonacci Report — built with Claude (PDF)](https://github.com/sophiayaghmaee/dynamic-programming/blob/main/examples/fibonacci_report.pdf) &nbsp;|&nbsp; Demo video coming soon
+
+- Benchmarks six algorithm implementations across Fibonacci and Tribonacci sequences, measuring runtime, arithmetic operation counts, and big integer growth
+- Proves O(log n) empirically via instrumented arithmetic wrappers that count exact operations through matrix exponentiation chains
+- Generates a self-contained PDF report with performance charts and AI-written narrative per section
+
+**Stack:** Python · Matplotlib · Claude API
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-555555?style=flat)
@@ -36,10 +47,11 @@ Transitioning into Solutions Engineering — combining hands-on data engineering
 ![Power BI](https://img.shields.io/badge/Power%20BI-555555?style=flat)
 ![Azure](https://img.shields.io/badge/Azure-555555?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-555555?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-555555?style=flat)
 
 ## Certifications
 
-![Snowflake SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro%20Core%20COF--C02-29B5E8?style=flat&logo=snowflake&logoColor=white)
+[![Snowflake SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro%20Core%20COF--C02-29B5E8?style=flat&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/2441a2cb-a7c5-4336-b545-40723ba59690#acc.6FPV1QCZ)
 
 ## Connect
 
