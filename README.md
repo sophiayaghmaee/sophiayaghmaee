@@ -28,7 +28,7 @@ Transitioning into Solutions Engineering — combining hands-on data engineering
 <br>
 
 ### Dynamic Programming Performance Analysis
-[GitHub](https://github.com/sophiayaghmaee/dynamic-programming) &nbsp;|&nbsp; [Fibonacci Report — built with Claude (PDF)](https://github.com/sophiayaghmaee/dynamic-programming/blob/main/examples/fibonacci_report.pdf) &nbsp;|&nbsp; Demo video coming soon
+[GitHub](https://github.com/sophiayaghmaee/dp-benchmark) &nbsp;|&nbsp; [Fibonacci Report — built with Claude (PDF)](https://github.com/sophiayaghmaee/dp-benchmark/blob/main/examples/fibonacci_report.pdf) &nbsp;|&nbsp; Demo video coming soon
 
 - Benchmarks six algorithm implementations across Fibonacci and Tribonacci sequences, measuring runtime, arithmetic operation counts, and big integer growth
 - Proves O(log n) empirically via instrumented arithmetic wrappers that count exact operations through matrix exponentiation chains
